@@ -35,6 +35,8 @@ MIT
 @angular/router
 MIT
 
+@reatom/angular
+
 @reatom/core
 MIT
 
